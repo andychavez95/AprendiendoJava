@@ -2,7 +2,7 @@ package com.hristochavez.app;
 
 import java.util.Arrays;
 
-public class Ejemplo {
+public class App {
     public static void main(String[] args) {
         Empleado e1 = new Empleado(10, "Rosmery Yalico", "Arquitectura", 
                 "Piso 4"); 
